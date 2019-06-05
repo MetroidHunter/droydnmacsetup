@@ -13,6 +13,8 @@ brew cask install visual-studio-code
 brew cask install spotify
 brew cask install postman
 
+brew install telnet
+
 # VSCode setup
 code --install-extension vscjava.vscode-java-pack
 code --install-extension ms-vscode.cpptools
